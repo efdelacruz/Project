@@ -1,0 +1,1 @@
+/opt/uhs/webui/cots/postgresql/bin/postgres "-D" "/opt/uhs/webui/cots/postgresql/data" "-i"
